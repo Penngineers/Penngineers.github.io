@@ -1,6 +1,6 @@
 # Welcome to Whack-It-First
 
-# H1
+# Welcome to Whack-It-First
 ## H2
 ### H3
 #### H4
@@ -9,11 +9,6 @@
 
 Alternatively, for H1 and H2, an underline-ish style:
 
-Alt-H1
-======
-
-Alt-H2
-------
 
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
