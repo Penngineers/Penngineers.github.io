@@ -1,4 +1,3 @@
-# Welcome to Whack-It-First
 
 # Welcome to Whack-It-First
 ## H2
