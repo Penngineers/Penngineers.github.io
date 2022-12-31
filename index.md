@@ -27,7 +27,7 @@ Game in action when wait time is exceeded
 
 We decided to build a complete product and hence our project involved 3 stages: Product Design, Hardware Design and Software Design. We will be first walking you through Product Design.
 
-# Product Design
+## Product Design
 
 We designed a box whose top surface would act as a gaming interface and the box would enclose all the circuitry thus making it look like a finished product. In order to do this, we first made a rough sketch on paper of how we would want our gaming interface to look like. As we planned to fit the arcade buttons, LED matrix and TFT display on the top surface of the box we measured all these components in order to create accurate slots on the top surface of the box where these components would be fitted. We looked up images showing the mechanical structure of the arcade buttons as shown below. Considering the width indicated in the images and leaving a 0.5 mm margin for error we decided on a diameter of 28.5 mm for the illuminating arcade buttons in colors: Blue, Green, Red, White and Yellow and a diameter of 30 mm for the non-illuminating arcade button in pink color. We measured the width and height of the LED matrix and TFT display using vernier caliper and made slots measuring 128mmx31mm and 56mmx35mm for the LED matrix and TFT display respectively. We then designed a box measuring 440mmx280mm with finger edge joints using MakerCase. We then downloaded the .dxf file from MakerCase and imported it to Adobe Illustrator in order to make the slots on the top surface of the box for the components. We then downloaded the .ai file and sent it for laser cutting. The box was laser cut using ¼  inch black acrylic. We have inserted the images of the files below and have also linked the files below. 
 
@@ -56,7 +56,7 @@ Link to Laser Cutting process
 
 ![ai](https://user-images.githubusercontent.com/114092860/210122132-9314e15c-f433-4184-998d-38c5e59e3cbd.png)
 
-# Hardware Design
+## Hardware Design
 
 We will first walk you through the components we used for building our project. Individual images of all components are shown below.
 
@@ -64,7 +64,7 @@ We will first walk you through the components we used for building our project. 
 
 ![Components](https://user-images.githubusercontent.com/114092860/210121824-05cc6ce2-3017-44eb-a340-9cdf4974072c.png)
 
-# Hardware Description 
+## Hardware Description 
 
 We will now walk you through a detailed description of our hardware design. We used RP2040 PICO microcontroller which is based on Dual ARM Cortex-M0+ architecture. Though this game has many versions available online, ours is the first one to use RP2040 PICO microcontroller. The block diagram of our project is as shown below.
 
@@ -100,7 +100,7 @@ The connections between the other components and RP2040 PICO microcontroller hav
 ![Speaker Module Connections](https://user-images.githubusercontent.com/114092860/210122504-2e83328a-1c94-47d9-8053-80e8e0a6a0dd.png)
 
 
-# Software Design
+## Software Design
 
 We will be walking you through our software design process now. We used Arduino IDE for programming our RP2040 PICO microcontroller. We downloaded the required libraries and have attached them in the appendix below. We used multicore functionality to run 2 individual tasks simultaneously. The first task was to register the button presses of the 2 players and record a score and the second task was to run the counter for the game. This allowed us to achieve our goal of building a perfect gaming experience with no delay. However, this was a difficult process as we had to integrate 3 I2C breakout boards which had 3 different I2C addresses assigned to them and were controlling 11 arcade buttons. The “void setup()” and the “void loop()” perform the first task as explained above while “void setup1()” and “void loop1()” perform the second task as explained above. The complete code has been attached in the appendix below.
 
