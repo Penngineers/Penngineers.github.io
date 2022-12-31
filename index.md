@@ -13,15 +13,15 @@ We designed an arcade game called Whack-It-First inspired by the famous game Wha
 
 Game in action when Arcade Buttons are not pressed simultaneously
 
-[Link to video page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
+[Link to Project Video page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
 
 Game in action when wrong Arcade Button is pressed by one of the players
 
-[Link to video page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
+[Link to Project Video page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
 
 Game in action when wait time is exceeded
 
-[Link to video page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
+[Link to Project Video page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
 
 # Project Instructions
 
@@ -29,7 +29,11 @@ We decided to build a complete product and hence our project involved 3 stages: 
 
 # Product Design
 
-We designed a box whose top surface would act as a gaming interface and the box would enclose all the circuitry thus making it look like a finished product. In order to do this, we first made a rough sketch on paper of how we would want our gaming interface to look like. As we planned to fit the arcade buttons, LED matrix and TFT display on the top surface of the box we measured all these components in order to create accurate slots on the top surface of the box where these components would be fitted. We looked up images showing the mechanical structure of the arcade buttons as shown below. Considering the width indicated in the images and leaving a 0.5 mm margin for error we decided on a diameter of 28.5 mm for the illuminating arcade buttons in colors: Blue, Green, Red, White and Yellow and a diameter of 30 mm for the non-illuminating arcade button in pink color. We measured the width and height of the LED matrix and TFT display using vernier caliper and made slots measuring 128mmx31mm and 56mmx35mm for the LED matrix and TFT display respectively. We then designed a box measuring 440mmx280mm with finger edge joints using MakerCase. We then downloaded the .dxf file from MakerCase and imported it to Adobe Illustrator in order to make the slots on the top surface of the box for the components. We then downloaded the .ai file and sent it for laser cutting. The box was laser cut using ¼  inch black acrylic. We have inserted the images of the files below and have also attached the files in the appendix.
+We designed a box whose top surface would act as a gaming interface and the box would enclose all the circuitry thus making it look like a finished product. In order to do this, we first made a rough sketch on paper of how we would want our gaming interface to look like. As we planned to fit the arcade buttons, LED matrix and TFT display on the top surface of the box we measured all these components in order to create accurate slots on the top surface of the box where these components would be fitted. We looked up images showing the mechanical structure of the arcade buttons as shown below. Considering the width indicated in the images and leaving a 0.5 mm margin for error we decided on a diameter of 28.5 mm for the illuminating arcade buttons in colors: Blue, Green, Red, White and Yellow and a diameter of 30 mm for the non-illuminating arcade button in pink color. We measured the width and height of the LED matrix and TFT display using vernier caliper and made slots measuring 128mmx31mm and 56mmx35mm for the LED matrix and TFT display respectively. We then designed a box measuring 440mmx280mm with finger edge joints using MakerCase. We then downloaded the .dxf file from MakerCase and imported it to Adobe Illustrator in order to make the slots on the top surface of the box for the components. We then downloaded the .ai file and sent it for laser cutting. The box was laser cut using ¼  inch black acrylic. We have inserted the images of the files below and have also linked the files below. 
+
+Link to .dxf file and .ai file
+
+[Link to Project Files page](https://github.com/Penngineers/Project-Files).
 
 ## Mechanical Structure of Illuminating Arcade Button 
 
