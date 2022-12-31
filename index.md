@@ -51,7 +51,6 @@ Link to Laser Cutting process
 
 ![dfx](https://user-images.githubusercontent.com/114092860/210122126-6352b6e4-f169-49ee-9118-489e80488696.png)
 
-
 ## Image of .ai File for Laser Cutting
 
 ![ai](https://user-images.githubusercontent.com/114092860/210122132-9314e15c-f433-4184-998d-38c5e59e3cbd.png)
@@ -90,7 +89,6 @@ The connections between the other components and RP2040 PICO microcontroller hav
 
 ![LED Matrix Connections](https://user-images.githubusercontent.com/114092860/210122303-fc842193-8a89-4f00-bee3-336a6281a3d3.png)
 
-
 ## Connection between TFT Display and RP2040 Microcontroller 
 
 ![TFT Display Connections](https://user-images.githubusercontent.com/114092860/210122487-8bf67dec-22e7-45dd-9a77-ca3982eb664e.png)
@@ -98,7 +96,6 @@ The connections between the other components and RP2040 PICO microcontroller hav
 ## Connection between Speaker Module and RP2040 Microcontroller 
 
 ![Speaker Module Connections](https://user-images.githubusercontent.com/114092860/210122504-2e83328a-1c94-47d9-8053-80e8e0a6a0dd.png)
-
 
 ## Software Design
 
