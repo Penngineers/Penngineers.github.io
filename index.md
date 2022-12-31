@@ -102,9 +102,11 @@ The connections between the other components and RP2040 PICO microcontroller hav
 
 ## Software Design
 
-We will be walking you through our software design process now. We used Arduino IDE for programming our RP2040 PICO microcontroller. We downloaded the required libraries and have attached them in the appendix below. We used multicore functionality to run 2 individual tasks simultaneously. The first task was to register the button presses of the 2 players and record a score and the second task was to run the counter for the game. This allowed us to achieve our goal of building a perfect gaming experience with no delay. However, this was a difficult process as we had to integrate 3 I2C breakout boards which had 3 different I2C addresses assigned to them and were controlling 11 arcade buttons. The “void setup()” and the “void loop()” perform the first task as explained above while “void setup1()” and “void loop1()” perform the second task as explained above. The complete code has been attached in the appendix below.
+We will be walking you through our software design process now. We used Arduino IDE for programming our RP2040 PICO microcontroller. We downloaded the required libraries and have linked them below. We used multicore functionality to run 2 individual tasks simultaneously. The first task was to register the button presses of the 2 players and record a score and the second task was to run the counter for the game. This allowed us to achieve our goal of building a perfect gaming experience with no delay. However, this was a difficult process as we had to integrate 3 I2C breakout boards which had 3 different I2C addresses assigned to them and were controlling 11 arcade buttons. The “void setup()” and the “void loop()” perform the first task as explained above while “void setup1()” and “void loop1()” perform the second task as explained above. The complete code has been linked below.
 
-[Link to another page](./another-page.html).
+# Link to Libraries and Code
+
+[Link to Project Files page](https://github.com/Penngineers/Project-Files/tree/main/Project%20Libraries%20and%20Main%20Code).
 
 # Narrative Overview of Project 
 
