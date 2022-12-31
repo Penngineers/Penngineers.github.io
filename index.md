@@ -32,9 +32,14 @@ We designed a box whose top surface would act as a gaming interface and the box 
 
 ![Non-illuminating Arcade Button Mechanical Structure](https://user-images.githubusercontent.com/114092860/210121938-9d279b71-61a6-45c5-ae46-c15349c445d1.png)
 
-## Image of .dxf of Box
+## Image of .dxf File of Box
 
-![dfx-box](https://user-images.githubusercontent.com/114092860/210121974-109e515e-c79f-426e-98b2-00a5d8ef34b4.png)
+![dfx](https://user-images.githubusercontent.com/114092860/210122126-6352b6e4-f169-49ee-9118-489e80488696.png)
+
+
+## Image of .ai File for Laser Cutting
+
+![ai](https://user-images.githubusercontent.com/114092860/210122132-9314e15c-f433-4184-998d-38c5e59e3cbd.png)
 
 
 
