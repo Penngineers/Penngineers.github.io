@@ -13,15 +13,15 @@ We designed an arcade game called Whack-It-First inspired by the famous game Wha
 
 Game in action when Arcade Buttons are not pressed simultaneously
 
-[Link to Project Video page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
+[Link to Project Videos page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
 
 Game in action when wrong Arcade Button is pressed by one of the players
 
-[Link to Project Video page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
+[Link to Project Videos page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
 
 Game in action when wait time is exceeded
 
-[Link to Project Video page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
+[Link to Project Videos page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
 
 # Project Instructions
 
