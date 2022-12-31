@@ -45,7 +45,7 @@ We designed a box whose top surface would act as a gaming interface and the box 
 
 We will first walk you through the components we used for building our project. Individual images of all components are shown below.
 
-# Component List
+## Component List
 
 ![Components](https://user-images.githubusercontent.com/114092860/210121824-05cc6ce2-3017-44eb-a340-9cdf4974072c.png)
 
@@ -53,20 +53,20 @@ We will first walk you through the components we used for building our project. 
 
 We will now walk you through a detailed description of our hardware design. We used RP2040 PICO microcontroller which is based on Dual ARM Cortex-M0+ architecture. Though this game has many versions available online, ours is the first one to use RP2040 PICO microcontroller. The block diagram of our project is as shown below. As seen in the block diagram, the RP2040 PICO microcontroller is programmed to control the components such as the LED Matrix, TFT Display, Speaker Module, I2C breakout boards and the arcade buttons. Among all the versions of this project available online, ours is the only project to utilize I2C breakout boards as an alternative for replacing multiple I2C connections. Since a single I2C breakout board is responsible for 4 arcade buttons, we had to use 3 I2C breakout boards for controlling our 11 arcade buttons. Each I2C breakout board has a predefined I2C address which is 0x3A. Hence, we had to cut the PCB trace of the other 2 I2C breakout boards in order to assign them the I2C addresses 0x3B and 0x3C respectively. Thus, all 3 I2C breakout boards were assigned different I2C addresses which eliminated the problem of pin definition. The I2C breakout board 1 was assigned the I2C address 0x3B by cutting the A0 trace and is responsible for controlling the illuminating arcade buttons in colors: Blue, Red, White and Yellow on the right side of the gaming interface. The I2C breakout board 2 was assigned the predefined I2C address 0x3A as no trace was cut and is responsible for controlling the illuminating arcade buttons in colors: Blue, Red, White and Yellow on the left side of the gaming interface. The I2C breakout board 3 was assigned the I2C address 0x3C by cutting the A1 trace and is responsible for controlling the illuminating green colored arcade buttons and the non-illuminating pink colored arcade button. All the 3 I2C breakout boards have been chained together using the Stemma QT cable and thus connected to RP2040 PICO microcontroller. The RP2040 PICO microcontroller was mounted on the port expander so as to gain access to more GPIO pins and to also provide 5V power supply to the entire gaming interface as that was mainly the power requirement of the arcade buttons. The connections between the other components and RP2040 PICO microcontroller have been tabulated as shown below.
 
-# Connection between the I2C Breakout Board and RP2040 PICO Microcontroller
+## Connection between the I2C Breakout Board and RP2040 PICO Microcontroller
 
 ![I2C Breakout Board Connections](https://user-images.githubusercontent.com/114092860/210122226-067df609-b259-486f-b3d5-66767ca2f8cf.png)
 
-# Connection between Led Matrix and RP2040 PICO Microcontroller 
+## Connection between Led Matrix and RP2040 PICO Microcontroller 
 
 ![LED Matrix Connections](https://user-images.githubusercontent.com/114092860/210122303-fc842193-8a89-4f00-bee3-336a6281a3d3.png)
 
 
-# Connection between TFT Display and RP2040 Microcontroller 
+## Connection between TFT Display and RP2040 Microcontroller 
 
 ![TFT Display Connections](https://user-images.githubusercontent.com/114092860/210122487-8bf67dec-22e7-45dd-9a77-ca3982eb664e.png)
 
-# Connection between Speaker Module and RP2040 Microcontroller 
+## Connection between Speaker Module and RP2040 Microcontroller 
 
 ![Speaker Module Connections](https://user-images.githubusercontent.com/114092860/210122504-2e83328a-1c94-47d9-8053-80e8e0a6a0dd.png)
 
