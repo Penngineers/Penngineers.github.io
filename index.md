@@ -35,6 +35,10 @@ Link to .dxf file and .ai file
 
 [Link to Project Files page](https://github.com/Penngineers/Project-Files).
 
+Link to Laser Cutting process 
+
+[Link to Project Videos page](https://github.com/Penngineers/Project-Videos/blob/main/README.md).
+
 ## Mechanical Structure of Illuminating Arcade Button 
 
 ![Illuminating Arcade Button Mechanical Structure](https://user-images.githubusercontent.com/114092860/210121912-c7cb3af6-29b8-4bb5-a5f0-922c82c91fdf.png)
