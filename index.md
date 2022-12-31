@@ -2,6 +2,7 @@
 layout: default
 ---
 
+A warm welcome to all the people visiting our page. We are the team Penngineers. We are first year graduate students in the Electrical Engineering program at University of Pennsylvania specializing in Circuits and Computer Engineering. We designed the following game as a final project for our course ESE 5190: Embedded Systems. We had a lot of fun while building this project. We will be walking you through a detailed description of our project which will help you understand it in depth in case you wish to recreate it. 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
