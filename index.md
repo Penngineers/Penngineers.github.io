@@ -162,6 +162,10 @@ We came up with a design that we were sure that we would be able to deliver. We 
 
 PIO helps us to create our own interfaces from scratch. PIO is like a tiny processor that runs code separately from the main  Cortex-M0+. Hence it is independent of the CPU. RP2040 has 2 PIO blocks each having 4 state machines. They each have a set of 9 instructions which allow for a wide range of behavior and location changes of data. They are written in a special language for the PIO system on RP2040 that can then be embedded in the main code. Using PIO we can dedicate a state machine to implement the control protocol. Using PIO leaves the processor free as the PIO is an independent module. Pio gives a much deeper level of control. In our project we have used PIO for I2C communication.
 
+Link to .pio file 
+
+[Link to Project Files page](https://github.com/Penngineers/Project-Files/tree/main/Project%20Libraries%20and%20Main%20Code).
+
 # Accomplishments achieved in the Project
 
 We are particularly proud of the different components that we used in our game that have never been used before. Right from using the RP2040 PICO microcontroller to the I2C breakout boards to the port expander, we utilized components that took care of many bugs that our game otherwise would have had. We are also proud of having used multicore functionality that took care of executing events simultaneously thus eliminating delay completely. On the final demo day, everyone enjoyed playing our game because of the seamless gaming experience we provided. The faculty was proud to see how we designed an enclosure giving our project a final finished product like look. As electrical engineers, making the hardware easy and clean to debug and giving the game a polished look was a feat that we are extremely proud to have achieved with strict time constraints. Building this game will indeed always be a memorable experience. To all the people going through our website, we would love to see you recreate our game. Thank you!! 
