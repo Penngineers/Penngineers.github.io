@@ -12,6 +12,10 @@ We designed an arcade game called Whack-It-First inspired by the famous game Wha
 ![11](https://user-images.githubusercontent.com/114092860/210121471-d875ff38-65bb-4c49-8b87-ba05d47df5e5.jpg)
 
 
+
+https://user-images.githubusercontent.com/114092860/210121604-a76c3f98-8de4-450c-83e7-09b77e6d3ff3.mp4
+
+
 [Link to another page](./another-page.html).
 
 # Project Instructions
