@@ -62,6 +62,15 @@ We will now walk you through a detailed description of our hardware design. We u
 ![LED Matrix Connections](https://user-images.githubusercontent.com/114092860/210122303-fc842193-8a89-4f00-bee3-336a6281a3d3.png)
 
 
+# Connection between TFT Display and RP2040 Microcontroller 
+
+![TFT Display Connections](https://user-images.githubusercontent.com/114092860/210122487-8bf67dec-22e7-45dd-9a77-ca3982eb664e.png)
+
+# Connection between Speaker Module and RP2040 Microcontroller 
+
+![Speaker Module Connections](https://user-images.githubusercontent.com/114092860/210122504-2e83328a-1c94-47d9-8053-80e8e0a6a0dd.png)
+
+
 ## Header 2
 
 > This is a blockquote following a header.
