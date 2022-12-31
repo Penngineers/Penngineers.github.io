@@ -166,3 +166,20 @@ Link to .pio file
 # Accomplishments achieved in the Project
 
 We are particularly proud of the different components that we used in our game that have never been used before. Right from using the RP2040 PICO microcontroller to the I2C breakout boards to the port expander, we utilized components that took care of many bugs that our game otherwise would have had. We are also proud of having used multicore functionality that took care of executing events simultaneously thus eliminating delay completely. On the final demo day, everyone enjoyed playing our game because of the seamless gaming experience we provided. The faculty was proud to see how we designed an enclosure giving our project a final finished product like look. As electrical engineers, making the hardware easy and clean to debug and giving the game a polished look was a feat that we are extremely proud to have achieved with strict time constraints. Building this game will indeed always be a memorable experience. To all the people going through our website, we would love to see you recreate our game. Thank you!! 
+
+# Team Penngineers 
+
+# Juilee Samir Kotnis 
+
+![WhatsApp Image 2022-11-10 at 11 42 33 PM](https://user-images.githubusercontent.com/114092860/210124705-c24409a1-d0e3-49dd-b03f-da84605738ce.jpeg)
+
+[Link to Linkedin Profile](https://www.linkedin.com/in/juilee-kotnis-838bb31aa).
+
+# Sushrut Salil Thakur
+
+![tradional pic](https://user-images.githubusercontent.com/114092860/210124734-3b22c69e-f4b9-404c-86fa-00d953ef4ec3.jpg)
+
+[Link to Linkedin Profile](https://www.linkedin.com/in/sushrut-thakur-8180b6123/).
+
+
+
