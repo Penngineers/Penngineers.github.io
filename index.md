@@ -27,15 +27,7 @@ We will first walk you through the components we used for building our project. 
 
 # Component List:
 
-RP2040 PICO Microcontroller
-Waveshare GPIO Port Expander for Raspberry Pi Pico
-Adafruit LED Arcade Button 1x4 QT I2C Breakout
-1.8" Color TFT LCD Display with MicroSD Card Breakout - ST7735R
-MAX7219 LED Matrix Display
-Adafruit Arcade Button with LED - 30mm (Blue,Green, Red, White and Yellow)
-Adafruit Arcade Button - 30mm (Pink)
-JST XH Quick Connect Cables
-AST 32mm Speaker Module
+
 
 
 ## Header 2
@@ -123,6 +115,8 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![11](https://user-images.githubusercontent.com/114092860/210121471-d875ff38-65bb-4c49-8b87-ba05d47df5e5.jpg)
+
 
 
 ### Definition lists can be used with HTML syntax.
