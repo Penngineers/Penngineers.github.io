@@ -173,7 +173,7 @@ We are particularly proud of the different components that we used in our game t
 
 ![WhatsApp Image 2022-11-10 at 11 42 33 PM](https://user-images.githubusercontent.com/114092860/210124705-c24409a1-d0e3-49dd-b03f-da84605738ce.jpeg)
 
-[Link to Linkedin Profile](https://www.linkedin.com/in/juilee-kotnis-838bb31aa).
+[Link to Linkedin Profile](https://www.linkedin.com/in/juilee-samir-kotnis-838bb31aa/).
 
 # Sushrut Salil Thakur
 
